@@ -1,0 +1,5 @@
+# ignore SolidWorks temporary files
+~$*.SLDPRT
+~$*.SLDASM
+~$*.SLDDRW
+.DS_Store
